@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=pavanvenkatreddy&style=flat-square)
+
 ### Hello World 👋 It's [Pavan Venkat!](https://pavanvenkatreddy.github.io/not-my-cv/)
 
 <br/>
